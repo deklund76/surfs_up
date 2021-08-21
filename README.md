@@ -9,7 +9,7 @@ The purpose of this analysis is to analyze weather data from Oahu to determine i
 
 ![December Temperature Summary](https://github.com/deklund76/surfs_up/blob/main/resources/december_temps.png)
 
-* June fairly consistently about 4 degrees warmer than December
+* June is fairly consistently about 4 degrees warmer than December
 * December has greater variability in temperature as seen by its larger standard deviation
 * December's coldest weather is significantly colder than June's (8 degress)
 
